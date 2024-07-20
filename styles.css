@@ -48,4 +48,11 @@ body {
 }
 
 .code:focus {
-    border-color: #007b
+    border-color: #007bff;
+}
+
+.note {
+    margin-top: 20px;
+    color: #888;
+    font-size: 14px;
+}
